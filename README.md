@@ -3,7 +3,7 @@
  
 
 <h1 align="left">I'm Harshit Bhalla</h1>
-<p align="">A 2nd year Undergraduate, pursuing a Major Degree in Chemical Engineering from the Indian Institute of Technology (IIT), Delhi🔭. <br> My fields of work and interest are Full-Stack Development, Programming, and Machine Learning. I focus my work towards the positive advancement of technology for people.🌱</p>
+<p align="">A 2nd year Undergraduate, pursuing a Major Degree in Chemical Engineering from the Indian Institute of Technology (IIT), Delhi🔭. <br> My fields of work and interest are Full-Stack Development, Programming, and Machine Learning. I focus my work towards the positive advancement of technology for public welfare.🌱</p>
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
@@ -28,17 +28,3 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspirin01&label=Profile%20views&color=0e75b6&style=flat" alt="aspirin01" /> </p>
-<!--
-**aspirin01/aspirin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
