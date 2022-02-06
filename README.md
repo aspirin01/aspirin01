@@ -1,5 +1,5 @@
 
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+![hello world](https://github.com/aspirin01/aspirin01/blob/main/hello-world.png)
  
 
 <h1 align="left">I'm Harshit Bhalla</h1>
