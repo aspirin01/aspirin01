@@ -24,7 +24,7 @@
 <br/>
 
 
- <a href='https://drive.google.com/file/d/1QjC0AJdl0IGLXHqBmOUpOvPP1QfoN5Au/view](https://drive.google.com/file/d/1sN0CSc540FEbhzDtfgmr7Sg-FBD3z6Jk/view?usp=sharing)'><h2>Resume 📄<h2></a>
+ <a href='https://drive.google.com/file/d/1sN0CSc540FEbhzDtfgmr7Sg-FBD3z6Jk/view?usp=sharing'><h2>Resume 📄<h2></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspirin01&label=Profile%20views&color=0e75b6&style=flat" alt="aspirin01" /> </p>
