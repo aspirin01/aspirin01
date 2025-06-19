@@ -14,7 +14,8 @@
 
 
 </br><p align="center" >
-![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=aspirin01&theme=noctis_minimus&show_icons=true)</p>
+<!--![Harshit's github stats](https://github-readme-stats.vercel.app/api?username=aspirin01&theme=noctis_minimus&show_icons=true)</p>
+-->
 </br>
 
 
@@ -25,7 +26,7 @@
 
 Hire me? [✉️](mailto:harshitbiitdelhi@gmail.com)
 
-My [Resume ](https://drive.google.com/file/d/1DVDU-_QwPrP1p4i5GJNZLRyuwpxl5x_e/view?usp=drive_link)
+My [Resume ](https://drive.google.com/file/d/13V1jP9shdGilUeGVLbdXJw1KYM9OVODY/view?usp=sharing)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspirin01&label=Profile%20views&color=0e75b6&style=flat" alt="aspirin01" /> </p>
