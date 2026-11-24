@@ -3,7 +3,7 @@
  
 
 <h1 align="left">I'm Harshit Bhalla</h1>
-<p align="">Graduated with a Major Degree in Chemical Engineering and a minor in computer science from the Indian Institute of Technology (IIT), Delhi🔭. <br> My fields of work and interest are Full-Stack Development, Trading systems, and Machine Learning. I focus my work towards the positive advancement of technology for public welfare.🌱</p>
+<p align="">Graduated with a Major Degree in Chemical Engineering and a minor in computer science from the Indian Institute of Technology (IIT), Delhi🔭. <br> My fields of work and interest are Full-Stack Development, Trading systems, and Agents. I focus my work towards the positive advancement of technology for public welfare.🌱</p>
 
 <h3 align="left">Connect with me:</h3>
   <p align="left">
